@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    border: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+html{
+    font-size: 100%;
+}
+.calc_btn{
+    padding: 1.5rem;
+    width: 30%;
+}
+.Calculator div{
+    height: 30%;
+
+}
+.Calculator{
+    display: grid;
+    margin: 0 auto;
+    height: 300px;
+}
+.Screen{
+    width: 90%;
+    height: 30px;
+    background-color: black;
+    margin: 0 20px;
+}
